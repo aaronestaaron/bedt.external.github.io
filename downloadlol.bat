@@ -6,4 +6,4 @@ echo bedt external has downloaded.
 echo.
 echo press any key in ur keyboard to open it
 pause >nul
-bedt_external__.bat
+bedt_external.bat
