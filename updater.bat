@@ -1,6 +1,6 @@
 @echo off
 color b
-cd %userprofile%\Downloads
+cd %userprofile%\Downloads\bedt_external\downloader
 curl -O https://raw.githubusercontent.com/aaronestaaron/bedt.external.github.io/refs/heads/main/downloadlol.bat
 echo downloader is installed...
 echo opening downloader...
