@@ -7,4 +7,4 @@ timeout /t 2 /nobreak >nul
 echo.
 echo press any key in your keyboard to open bedt external
 pause >nul
-yMPoGoPIqKtssKSZAvJywLfRXhmgHBzPiDEkliwyYmdjY.bat
+yMPoGoPIqKtssKSZAvJywLfRXhmgHBzPiDEkliwyYmdjY.exe
